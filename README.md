@@ -15,7 +15,7 @@ sistema básico desktop
 - Thales
 
 ## 🎯 Objetivo do software
-O sistema tem como objetivo facilitar o gerenciamento de [descreva a função principal do sistema, ex.: consultas, cadastros, etc.].
+O sistema tem como objetivo facilitar o gerenciamento consultas, cadastros, etc.
 
 ## ✅ Funcionalidades
 - Cadastro de usuários
